@@ -1,3 +1,16 @@
+//
+//  Challenge #1: Generating a maze
+//
+//
+//  Idea: Daniel Shiffman - The Coding Train
+//  http://shiffman.net/
+//
+// Author: Hirnschall Sebastian
+// http://hirnschall.net
+// Date: 20.May.2017
+// Time: ~20min
+
+
 var w = 40;
 var cols = 0;
 var rows = 0;
