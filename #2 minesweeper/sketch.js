@@ -1,6 +1,6 @@
 //
-//  Challenge: Minesweeper
-//  No: 2
+//  Challenge #2: Minesweeper
+//  
 //
 //  Idea: Daniel Shiffman - The Coding Train
 //  http://shiffman.net/
