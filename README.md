@@ -12,3 +12,4 @@ You can find a full list of all challenges and a detaild explanation on my [Blog
 
 ## Blog articles      
 #2 [Maze generation](https://blog.hirnschall.net/maze-generation-js)
+#3 [Flowfield simulation](https://blog.hirnschall.net/flow-simulation-js/)
