@@ -14,5 +14,5 @@ You can find a full list of all challenges and a detaild explanation on my [Blog
 #1 [Maze generation](https://blog.hirnschall.net/maze-generation-js)       
 #2 [Minesweeper](https://blog.hirnschall.net)      
 #3 [Flowfield simulation](https://blog.hirnschall.net/flow-simulation-js/)        
-#4 [C++ Calculator](https://blog.hirnschall.net/programming-an-advanced-cpp-calculator/)
+#4 [C++ Calculator](https://blog.hirnschall.net/programming-an-advanced-cpp-calculator/)      
 #5 [Random Walker](https://blog.hirnschall.net/random-walker-js/)
